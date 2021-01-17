@@ -1,0 +1,24 @@
+.navbar__item {
+    font-family: "Open Sans", sans-serif;
+    font-size: 32px;
+    color: $primary !important;
+}
+
+.bg-light {
+    background-color: $square !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-size: 15px;
+}
+.navbar-nav{
+    margin-left: 60px;
+}
+.navbar-collapse {
+    z-index: 1;
+}
+
+
+  .nav__dropdown__item__link--active{
+    color: $highlight !important;
+}

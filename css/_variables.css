@@ -1,0 +1,7 @@
+:root { 
+    --background-colour: #393939;
+    --nav-colour:#262525;
+    --primary-colour: #f80e68;
+    --nav-colour-hover: #262525;
+    --background-dark: rgba(0, 0, 0, 0.5);
+}
